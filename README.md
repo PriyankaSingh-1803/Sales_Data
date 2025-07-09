@@ -34,3 +34,6 @@ Most profitable product categories
 Sales contribution by regions and customer types
 
 Comparative analysis to aid in marketing and inventory planning
+
+
+[Download Sales Dataset](./sales_data.csv)
