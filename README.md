@@ -36,4 +36,5 @@ Sales contribution by regions and customer types
 Comparative analysis to aid in marketing and inventory planning
 
 
-[Download Sales Dataset](./sales_data.csv)
+📥 [Download Dataset – Store Data.xlsx](https://github.com/PriyankaSingh-1803/Sales_Data/raw/main/Sales_Data_Analysis_Project/Store%2BData.xlsx)
+
